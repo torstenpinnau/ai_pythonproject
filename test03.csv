@@ -1,0 +1,11 @@
+Time,State,Group,Unit,Sales
+Morning,WA,Kids,8,20000
+Morning,WA,Men,8,20000
+Morning,WA,Women,4,10000
+Morning,WA,Seniors,15,37500
+Afternoon,WA,Kids,3,7500
+Afternoon,WA,Men,10,25000
+Afternoon,WA,Women,3,7500
+Afternoon,WA,Seniors,11,27500
+Evening,WA,Kids,15,37500
+Evening,WA,Men,15,37500
