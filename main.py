@@ -22,7 +22,7 @@ def log(message):
     # log to JS console
     console.log(message)
 
-g = 'https://raw.githubusercontent.com/torstenpinnau/pythonproject/main/AusApparalSales4thQrt2020.csv'
+g = 'https://raw.githubusercontent.com/torstenpinnau/ai_pythonproject/main/AusApparalSales4thQrt2020.csv'
 #def kein(event):
 pydom["div#pandas-output-inner"].html = ""
 TextFileReader = pd.read_csv(open_url(g), skipinitialspace=True, chunksize=5)
